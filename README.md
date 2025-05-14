@@ -36,21 +36,7 @@ Permitir que usuários explorem a evolução de nomes no Brasil, comparem a popu
 
 ## Execução do Projeto
 
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-```
-
-2. Acesse a pasta do projeto:
-
-```bash
-cd nome-do-repositorio
-```
-
-3. Abra o arquivo `index.html` em seu navegador.
-
-> Não é necessário instalar nenhuma dependência ou servidor adicional.
+- Acesse o Link: https://eduvoltatone.github.io/Atividade-Arquitetura-de-Software-13-05/
 
 ## Documentação da API do IBGE
 
