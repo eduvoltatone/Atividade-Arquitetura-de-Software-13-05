@@ -2,6 +2,16 @@
 
 Este é um sistema orientado a serviços (SOA) desenvolvido para consultar a API de nomes do IBGE e realizar análises de tendências de nomes próprios no Brasil, desde a década de 1930 até os dias atuais. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript puros, com separação clara de responsabilidades entre interface e lógica de negócio, respeitando os princípios de arquitetura SOA.
 
+## Nomes e RAs
+- Eduardo Voltatone Ribeiro das Neves
+- RA: 22207439-2
+
+- Eduardo Navarro
+- RA: 22014553-2
+
+- Pedro Henrique Magalhães Gomes
+- RA: 22087525-2
+
 ## Objetivo
 
 Permitir que usuários explorem a evolução de nomes no Brasil, comparem a popularidade entre nomes e visualizem os nomes mais comuns por estado (UF), utilizando dados da API oficial do IBGE.
